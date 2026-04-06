@@ -3,7 +3,7 @@
 # GitHub Workflow Practice Repository
 
 ## 📌 Overview
-This repository is created as part of my learning journey on Git and GitHub.  
+This repository is created as part of my learning journey on Git and GitHub, but no only.  
 It demonstrates how to work with branches, commits, and pull requests using the GitHub workflow.
 
 ## 🚀 Purpose
